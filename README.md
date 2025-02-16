@@ -1,5 +1,7 @@
-### Olá! eu sou o John 👋
-Iniciante em tecnologia e motivado a aprender! 📖
+### Hi! I'm @JohnatanCoelho 👋
+
+I am a student at Fatec, studying databases.🎲👨‍💻
+This profile is intended for the professional development of my career! 📖
 
 ### Comunicação e Perfis profissionais 💻 📞
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnatan-coelho-30bbb62a5/) 
@@ -13,8 +15,5 @@ Iniciante em tecnologia e motivado a aprender! 📖
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
    
-
-  
-  
 </div> <br>
 
