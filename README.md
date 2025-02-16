@@ -1,6 +1,6 @@
 
 # Johnatan Coelho
-<font color = "orange">**`Data Base Analistic`**</font>
+<font color = "orange">**`Data Base`**</font>
 
 **I am a student at Fatec, studying databases.🎲👨‍💻**
 
