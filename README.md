@@ -2,9 +2,9 @@
 # Johnatan Coelho
 <font color = "orange">**`Data Base Analistic`**</font>
 
-I am a student at Fatec, studying databases.🎲👨‍💻
+**I am a student at Fatec, studying databases.🎲👨‍💻**
 
-This profile is intended for the professional development of my career! 📖
+**This profile is intended for the professional development of my career!** 📖
 
 ![John Github Stats](https://github-readme-stats.vercel.app/api?username=JohnatanCoelho&show_icons=true&theme=codeSTACKr)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnatanCoelho&langs_count=8)
