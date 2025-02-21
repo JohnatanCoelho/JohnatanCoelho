@@ -7,7 +7,6 @@
 **This profile is intended for the professional development of my career!** 📖
 
 ![John Github Stats](https://github-readme-stats.vercel.app/api?username=JohnatanCoelho&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnatanCoelho&langs_count=8)
 
 ### Profile Professional and Communication 📞
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnatan-coelho-30bbb62a5/) 
